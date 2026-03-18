@@ -1,4 +1,4 @@
-# My plain texts
+# My plain text
 
 [pt-br](https://github.com/kilroy-mccoy/my-plain-text/blob/main/README-pt-br.md)
 
