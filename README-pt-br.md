@@ -1,4 +1,4 @@
-# Meus textos planos
+# Meu texto plano
 
 [en](https://github.com/kilroy-mccoy/my-plain-text/blob/main/README.md)
 
