@@ -1,4 +1,4 @@
-**Expergiscimur, observamus, discimus, facimus, et tunc quiescimus... Aliquando cogitamus, sed extra ambitum huius textus est.**[^1][^2]
+## Expergiscimur, observamus, discimus, facimus, et tunc quiescimus... Aliquando cogitamus, sed extra ambitum huius textus est.[^1][^2]
 
 We wake up, we observe, we learn, we do, and then we rest... Sometimes we ponder, but it's beyond the scope of this text.
 
