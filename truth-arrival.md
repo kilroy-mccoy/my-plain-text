@@ -1,4 +1,4 @@
-**It's true that truth can gallop, walk, trot or limp and still arrive on time. Given it hasn't become perspective by the time it arrives.**[^1]
+## It's true that truth can gallop, walk, trot or limp and still arrive on time. Given it hasn't become perspective by the time it arrives.[^1]
 
 É verdade que a verdade pode galopar, andar, trotar ou mancar e chegar sempre a tempo. Visto que não se transforme em perspectiva quando chegar.
 
