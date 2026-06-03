@@ -1,4 +1,4 @@
-**Adeamus ad montem fodere putas cum porribus nostrum.**[^1]
+## Adeamus ad montem fodere putas cum porribus nostrum.[^1]
 
 We are going to the mountain to plant potatoes with our hoe.
 
