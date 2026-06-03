@@ -2,7 +2,7 @@
 
 [en](https://github.com/kilroy-mccoy/my-plain-text/blob/main/README.md)
 
-Repositório para hospedar textos suas traduções (pode ser útil ou apenas espirituoso).
+Repositório para hospedar texto simples (pode ser útil ou apenas espirituoso).
 
 ## Textos
 
